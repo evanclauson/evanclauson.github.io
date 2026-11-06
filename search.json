@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m Evan. I like sports."
+  },
+  {
+    "objectID": "posts/mlb-ballpark-dimensions-homeruns/index.html",
+    "href": "posts/mlb-ballpark-dimensions-homeruns/index.html",
+    "title": "Do Smaller MLB Field Dimensions Actually Yield More Home Runs?",
+    "section": "",
+    "text": "This is a story about homeruns in MLB ballparks.\n\n\nCode\nlibrary(tidyverse)\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.1     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.3     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\nThis is more of the story."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sportsblog",
+    "section": "",
+    "text": "Do Smaller MLB Field Dimensions Actually Yield More Home Runs?\n\n\n\nmajorleaguebaseball\n\nballparks\n\nhomeruns\n\n\n\n\n\n\n\n\n\n\n\nNov 13, 2026\n\n\nEvan Clauson\n\n\n\n\n\nNo matching items"
+  }
+]
