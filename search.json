@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi, I’m Evan. I like sports. This blog is about sports."
+    "text": "Hi, I’m Evan. Welcome to my sports blog! I am a senior studying sports media and communication through the University of Nebraska-Lincoln. This blog features my workshops turning raw data into compelling visual stories utilizing RStudio. I often find more niche and interesting stories exist through massive, complex datasets. My goal with this blog is to bring those stories out by building charts that make those massive numbers clear, transparent and easy to understand."
   },
   {
     "objectID": "posts/mlb-ballpark-dimensions-homeruns/index.html",
